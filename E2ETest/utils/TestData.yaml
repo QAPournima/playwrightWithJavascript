@@ -1,0 +1,15 @@
+valid_user:
+  sername: 'YourValidEmailID@mail.com'
+  password: 'YourPassword'
+
+invalid_user:
+  username: 'invalidemailid@gmail.com'
+  password: 'invalid-password'
+
+google_user:
+  username: 'YourGoogleSSO@gmail.com'
+  password: 'YourPassword'
+
+expected_urls:
+WebsiteURL: 'mytestwebsite.com'
+api_base_url: 'API base url'
