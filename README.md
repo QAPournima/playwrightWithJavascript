@@ -20,7 +20,7 @@ Playwright has its own test runner for end-to-end tests - Playwright Test.
 
 ### Using init command
 
-The easiest way to get started with Playwright Test is to run the init command.
+The easiest way to get started with the Playwright Test is to run the init command.
 
 ```Shell
 # Run from your project's root directory
@@ -114,7 +114,7 @@ This project is a POC for automating **end-to-end tests** using Playwright. The 
 ## Script Language
 The scripts in this project are written in JavaScript, utilizing the Playwright framework for end-to-end testing.
 
-## Project Structure
+## Project Structure (download the provided zip file and then extract its contents to a folder on your computer)
 
 ![Project Structure ](ProjectStructure.png)
 
